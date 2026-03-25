@@ -1,0 +1,5 @@
+{
+  "name": "Explorador del Círculo Cromático",
+  "description": "Una herramienta interactiva para aprender teoría del color y armonías cromáticas.",
+  "requestFramePermissions": ["microphone"]
+}

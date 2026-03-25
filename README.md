@@ -1,11 +1,25 @@
-<div align="center">
+# Explorador del Círculo Cromático
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Esta es una herramienta interactiva para aprender teoría del color y armonías cromáticas, optimizada para desplegarse en **Vercel**.
 
-  <h1>Built with AI Studio</h2>
+## Despliegue en Vercel
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+1.  Sube este código a un repositorio de **GitHub**, **GitLab** o **Bitbucket**.
+2.  Importa el proyecto en [Vercel](https://vercel.com/new).
+3.  Vercel detectará automáticamente que es un proyecto de **Vite**.
+4.  **IMPORTANTE:** Debes configurar la variable de entorno `GEMINI_API_KEY` en el panel de Vercel (Settings > Environment Variables) para que la asistente Luky funcione correctamente.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Características
 
-</div>
+-   Exploración interactiva del círculo cromático.
+-   Cálculo de armonías (Complementaria, Análoga, Triádica, etc.).
+-   Asistente de voz inteligente (Luky) con acento paisa.
+-   Chat con IA para consultas sobre teoría del color.
+
+## Tecnologías
+
+-   React 19
+-   Vite
+-   Tailwind CSS 4
+-   Framer Motion
+-   Google Gemini API
